@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42513'
     url: http://www.gutenberg.org/2009/agents/42513
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43983#Wanted--A-CookDomestic-Dialogues
 gutenberg_issued: '2013-10-19'
 gutenberg_type: Text
 identifiers:
