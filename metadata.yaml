@@ -1,0 +1,34 @@
+_repo: Wanted--A-CookDomestic-Dialogues_43983
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dale, Alan
+    aliases:
+    - Dale, Allen
+    - Cohen, Alfred J.
+    birthdate: 1861
+    deathdate: 1928
+    gutenberg_agent_id: '42513'
+    url: http://www.gutenberg.org/2009/agents/42513
+description: ''
+gutenberg_issued: '2013-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Housekeeping -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'Cooks -- Fiction'
+- !lcsh 'Married people -- Fiction'
+title: 'Wanted: A Cook
+
+  Domestic Dialogues'
+url: http://www.gutenberg.org/ebooks/43983
